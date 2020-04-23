@@ -1,0 +1,7 @@
+// word niet gebruikt en is overbodig
+nav {
+  ul {
+    display: grid;
+    @include grid-t-c(1fr 1fr 1fr 1fr);
+  }
+}

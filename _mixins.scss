@@ -1,0 +1,8 @@
+// word niet gebruikt en is overbodig
+@mixin grid-t-c($waarde) {
+  -webkit-grid-template-columns: $waarde;
+  -moz-grid-template-columns: $waarde;
+  -ms-grid-template-columns: $waarde;
+  -o-grid-template-columns: $waarde;
+  grid-template-columns: $waarde;
+}
